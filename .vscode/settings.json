@@ -41,6 +41,6 @@
 
   // 個人設定 - 開始
   "workbench.iconTheme": "vscode-icons",
-  "window.zoomLevel": 1
+  "window.zoomLevel": 0
   // 個人設定 - 終了
 }
